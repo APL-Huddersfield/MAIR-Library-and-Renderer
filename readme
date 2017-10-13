@@ -20,7 +20,11 @@ This project is licensed under the CC-BY-4.0 License - see the license.md file f
 
 # Publication
 Detailed capture process and microphone arrays used for the MAIR library are documented in e-Brief 356 presented at the Audio Engineering Society 143rd International Convention. 
-Download link: http://www.aes.org/e-lib/browse.cfm?elib=19307
+Download link: http://eprints.hud.ac.uk/id/eprint/33676/
+
+# Referencing
+If you use the MAIR library and renderer for your research, please reference it as follows.
+Lee, H. and Millns, C. (2017), "Microphone Array Impulse Response (MAIR) Library for Spatial Audio Research," presented at the 143rd Audio Engineering Society Convention, New York, e-Brief 356.
 
 # Acknowledgements
 The University of York’s SADIE BRIR database was used for the binauralisation of 9ch 3D reproduction of the MAIR Library.
