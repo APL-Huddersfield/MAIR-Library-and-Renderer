@@ -1,25 +1,24 @@
 # MAIR Library Rendering Tool
 MAIR is an open-access library of an extensive set of room impulse responses (RIRs) captured using numerous microphone arrays from 2-channel stereo to 9-channel surround with height. The RIRs were obtained for 13 loudspeakers placed in various positions on a stage in a reverberant concert hall. The library features five 2-channel stereo pairs, 10 main surround arrays, nine height microphone arrays for 3D main arrays and 15 4-channel configurations for surround and 3D ambience arrays, each with varied microphone polar patterns, directions, spacings, and heights. A dummy head and a first-order-Ambisonics microphone are also included. The library is provided with a rendering tool, with which the user can easily simulate different microphone combinations in both loudspeaker and binaural playback for 13 source positions. The audio inputs for the rendering tool can be directly fed from a DAW session as well as by manual file allocation.
 
-### Prerequisites
+# Prerequisites
 Max 7 must be installed to run this software. It can be found and downloaded for free here:
 https://cycling74.com/downloads
-
 NOTE: A Max 7 license is not required to run the MAIR Rendering Tool. 
 
-### Installing
-
+# Installing
 Once Max 7 is installed, simply run the MAIR_RenderingTool_v1 max collective file.
 
-## License
-
+# License
 This project is licensed under the CC-BY-4.0 License - see the license.md file for details
 
+# Publications
+The MAIR is documented in e-Brief 356 presented at the Audio Engineering Society 143rd International Convention. 
+http://www.aes.org/e-lib/browse.cfm?elib=19307
 
-## Acknowledgements
-The University of York’s SADIE BRIR database was used in testing and an edited version of some BRIRs also provided with the MAIR Library.
-
+# Acknowledgements
+The University of York’s SADIE BRIR database was used for the binauralisation of 9ch 3D reproduction of the MAIR Library.
 The full database and the licence can be found here:
 https://www.york.ac.uk/sadie-project/binaural.html
 
-www.hud.ac.uk/apl
+
