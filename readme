@@ -18,8 +18,11 @@ Once Max 7 is installed, simply run the MAIR_RenderingTool_v1.mxf max collective
 # License
 This project is licensed under the CC-BY-4.0 License - see the license.md file for details
 
+# User guide
+Technical details of the MAIR library and the user guide for the MAIR renderer are presented in the attached "MAIR technical descriptions and user guide" document.
+
 # Publication
-Detailed capture process and microphone arrays used for the MAIR library are documented in e-Brief 356 presented at the Audio Engineering Society 143rd International Convention. 
+The MAIR library and renderer was presented at the Audio Engineering Society 143rd International Convention. 
 Download link: http://www.aes.org/e-lib/browse.cfm?elib=19307
 
 # Referencing
