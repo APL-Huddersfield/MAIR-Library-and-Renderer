@@ -1,4 +1,4 @@
-# Microphone Array Impulse Responses (MAIR) - Library and Renderer >
+# Microphone Array Impulse Responses (MAIR) - Library and Renderer
 by Applied Psychoacoustics Lab, University of Huddersfield
 
 Authors: Hyunkook Lee and Connor Millns
