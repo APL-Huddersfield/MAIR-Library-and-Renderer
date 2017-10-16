@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-
+# OS generated files #
+######################
 .DS_Store
-.DS_Store
-=======
-.DS_Store
->>>>>>> 7dc286172d020456e1fc36e8885ad708be818bd2
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
